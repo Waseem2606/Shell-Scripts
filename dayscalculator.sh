@@ -1,13 +1,13 @@
 #!/bin/bash
 #
-################################################
-#                                              #
-# Clculate the number of days between two dates#
-# Author: Waseem Saher WRF Youtube             #
-# Date: 8/25/2024                              #
-# Version:1.0                                  #
-#                                              #
-# ##############################################
+#################################################
+#                                               #
+# Calculate the number of days between two dates#
+# Author: Waseem Saher WRF Youtube              #
+# Date: 8/25/2024                               #
+# Version:1.0                                   # 
+#                                               #
+# ###############################################
 
 # Prompt the user to enter the first date
 echo "Enter the First date (e.g., Month Day, year): "
